@@ -1,7 +1,8 @@
 <img src="https://netflix.github.com/Hystrix/images/hystrix-logo-tagline-850.png">
 
 # Hystrix: Latency and Fault Tolerance for Distributed Systems
-# 服务降级
+# Hystrix:分布式系统的延迟和容错
+# 关键字:服务降级,分布式,
 [![NetflixOSS Lifecycle](https://img.shields.io/osslifecycle/Netflix/PROJECTNAMEHERE.svg)]()
 [![][travis img]][travis]
 [![][maven img]][maven]
